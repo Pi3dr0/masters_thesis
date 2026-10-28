@@ -1,3 +1,5 @@
+.gitignore
+
 papers/
 scala_testing/
 
@@ -9,3 +11,7 @@ scala_testing/
 # Ignoring macOS methadata
 .DS_Store
 .DS_store
+
+
+# Obsidian files
+obsidian/.obsidian
