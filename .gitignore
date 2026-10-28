@@ -1,0 +1,8 @@
+papers/
+scala_testing/
+
+#
+
+# Ignoring macOS methadata
+.DS_Store
+.DS_store
