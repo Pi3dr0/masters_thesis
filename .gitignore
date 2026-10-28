@@ -1,10 +1,10 @@
 papers/
 scala_testing/
 
-.bsp
-.metals
-.scala-build
-.vscode
+.bsp/
+.metals/
+.scala-build/
+.vscode/
 
 # Ignoring macOS methadata
 .DS_Store
