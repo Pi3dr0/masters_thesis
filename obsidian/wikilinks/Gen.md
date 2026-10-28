@@ -1,0 +1,1 @@
+- Usek DNA, ktory sluzi ako pokyn na tvorbu funkcneho produktu - najcastejsie proteinu
